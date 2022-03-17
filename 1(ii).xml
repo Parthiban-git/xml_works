@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<Student>
+	<Academics>
+		<Name>Parthiban </Name>
+		<Roll_no>19I239</Roll_no>
+        <class>It g1</class>
+	</Academics>
+
+	<Placements>
+		<Company_name>soon</Company_name>
+		<Package>12LPA</Package>
+	</Placements>
+
+	<Higher_Studies>
+        <option>canada,america</option>
+	</Higher_Studies>
+
+    <sports>
+        <game>
+            cricket ,
+            football
+        </game>
+    </sports>
+</Student>
